@@ -9,6 +9,6 @@ int main(void)
 
 	srand(time(0));
 	n= rand() - RAND_MAX / 2;
-	/* your code goes here */
+	/* "if n=0=n zero, n>0=n positive, n<0=n negative" */
 	return (0);
 }
