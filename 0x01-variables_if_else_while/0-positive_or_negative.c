@@ -2,13 +2,16 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - assigns a random number to int n everytime
- * it executes, and print it
+/**
+ * main - Entry point
+ *
+ * description: 'assigns a random number to int n
+ * everytime it executes, and prints it'
+ *
  * Return: Always 0 (Success)
  *
  */
-int main(0)
+int main(void)
 {
 	int n;
 
