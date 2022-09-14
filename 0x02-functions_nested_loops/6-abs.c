@@ -14,7 +14,7 @@ int _abs(int n)
 {
 	if (n >= 0)
 	{
-		ruturn(n);
+		return (n);
 	}
 	return (-n);
 }
