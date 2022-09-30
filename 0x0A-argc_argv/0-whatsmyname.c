@@ -13,6 +13,8 @@
  */
 int main(int argc, char *argv[])
 {
-	printf("%s\n", argv[0]);
+	int x;
+	x = 0;
+	printf("%s\n", argv[x]);
 	return (0);
 }
