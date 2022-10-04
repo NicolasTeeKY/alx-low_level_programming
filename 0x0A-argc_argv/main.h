@@ -2,5 +2,6 @@
 #define _FILE_MAIN
 
 int _putchar(char c);
+int atoi(char *s);
 
 #endif
