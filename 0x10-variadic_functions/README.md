@@ -4,7 +4,7 @@
 
 1-print-numbers - prints all the given numbers.
 
-2-print_strings -
+2-print_strings - prints strings.
 
 3-print_all -
 
